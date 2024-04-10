@@ -6,10 +6,11 @@ export function Cabecalho(){
         <header className={ estilos.conteiner }>
             <FilmReel 
                 size={34}
-                color='#717c89'
+                color='#fff'
                 weight='duotone'
             />
-            <p>Recomendações</p>
+            <p>Netflix</p>
+            
         </header>
     )
 }

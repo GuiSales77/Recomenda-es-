@@ -12,8 +12,8 @@ export function Filme({filme}) {
                 <p className={estilos.avaliacao}>
                     <Star 
                         className={estilos.icone}
-                        size={18} 
-                        color='#ffee32' 
+                        size={20} 
+                        color='#000 ' 
                         weight='fill' 
                     />
                     {filme.vote_average}

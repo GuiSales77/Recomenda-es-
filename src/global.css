@@ -1,7 +1,9 @@
 :root {
     --cinza-claro: #dcdcdd;
-    --roxo-escuro: #1f0322;
-    --roxo-claro: #ab10bc;
+    --preto:black;
+    --branco: white;
+    --vermelho: red;
+    --amarelo: yellow;
 }
 
 * {
@@ -11,7 +13,7 @@
 }
 
 body {
-    background-color: var(--roxo-escuro);
+    background-color: var(--branco);
 }
 
 body, input, textarea, button {
